@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="16dp"
+    tools:context=".ui.LoginFragment">
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:columnCount="2"
+        android:horizontalSpacing="8dp"
+        android:rowCount="7"
+        android:useDefaultMargins="false"
+        android:verticalSpacing="0dp">
+
+        <TextView
+            android:layout_gravity="end"
+            android:id="@+id/serverHostTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:padding="0dp"
+            android:text="@string/server_host_string" />
+
+        <EditText
+            android:id="@+id/serverHostEditText"
+            android:layout_marginBottom="10dp"
+            android:inputType="text"
+            android:padding="0dp"
+            android:autofillHints="" />
+
+        <TextView
+            android:layout_gravity="end"
+            android:id="@+id/serverPortTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:padding="0dp"
+            android:text="@string/server_port_string" />
+
+        <EditText
+            android:id="@+id/serverPortEditText"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="10dp"
+            android:inputType="text"
+            android:padding="0dp"
+            android:autofillHints="" />
+
+        <TextView
+            android:layout_gravity="end"
+            android:id="@+id/userNameTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:padding="0dp"
+            android:text="@string/user_name_string" />
+
+        <EditText
+            android:id="@+id/userNameEditText"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="10dp"
+            android:inputType="text"
+            android:padding="0dp"
+            android:autofillHints="" />
+
+        <TextView
+            android:layout_gravity="end"
+            android:id="@+id/passwordTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:padding="0dp"
+            android:text="@string/password_string" />
+
+        <EditText
+            android:id="@+id/passwordEditText"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="10dp"
+            android:autofillHints=""
+            android:inputType="textPassword"
+            android:padding="0dp" />
+
+        <TextView
+            android:layout_gravity="end"
+            android:id="@+id/firstNameTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:padding="0dp"
+            android:text="@string/first_name_string" />
+
+        <EditText
+            android:id="@+id/firstNameEditText"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="10dp"
+            android:autofillHints=""
+            android:inputType="text"
+            android:padding="0dp" />
+
+        <TextView
+            android:layout_gravity="end"
+            android:id="@+id/lastNameTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:padding="0dp"
+            android:text="@string/last_name_string" />
+
+        <EditText
+            android:id="@+id/lastNameEditText"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="10dp"
+            android:inputType="text"
+            android:padding="0dp"
+            android:autofillHints="" />
+
+        <TextView
+            android:layout_gravity="end"
+            android:id="@+id/emailTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:padding="0dp"
+            android:text="@string/email_string" />
+
+        <EditText
+            android:id="@+id/emailEditText"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="10dp"
+            android:inputType="textEmailAddress"
+            android:padding="0dp"
+            android:autofillHints="" />
+
+        <TextView
+            android:layout_gravity="end"
+            android:id="@+id/genderTextView"
+            android:padding="0dp"
+            android:layout_marginTop="10dp"
+            android:text="@string/gender_string" />
+
+        <RadioGroup android:id="@+id/radioGroup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <RadioButton android:id="@+id/radio_male"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/male_gender" />
+            <RadioButton android:id="@+id/radio_female"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/female_gender" />
+        </RadioGroup>
+
+    </GridLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+        <Button android:id="@+id/login_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="0dp"
+            android:text="@string/login_string" />
+
+        <Button android:id="@+id/register_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="0dp"
+            android:text="@string/register_string" />
+
+    </LinearLayout>
+
+</LinearLayout>

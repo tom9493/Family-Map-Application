@@ -1,0 +1,43 @@
+create table if not exists "Users" (
+    userName varchar(225) not null unique,
+    password varchar(225) not null,
+    email varchar(225) not null,
+    firstName varchar(32) not null,
+    lastName varchar(32) not null,
+    gender varchar(32) not null,
+    constraint ck_gender check (gender in ('m' , 'f')),
+    primary key("userName")
+);
+
+create table if not exists "AuthTokens" (
+    id integer not null,
+    associatedUsername varchar(225) not null,
+    authString varchar(225) not null unique,
+    primary key("id" autoincrement)
+);
+
+create table if not exists "Persons" (
+    personID varchar(225) not null,
+    associatedUsername varchar(225) not null,
+    firstName varchar(32) not null,
+    lastName varchar(32) not null,
+    gender varchar(1) not null,
+    fatherID varchar(225),
+    motherID varchar(225),
+    spouseID varchar(225),
+    constraint ck_gender check (gender in ('m' , 'f')),
+    primary key("personID")
+);
+
+create table if not exists "Events" (
+    eventID varchar(225) not null,
+    associatedUserName varchar(225) not null,
+    personID varchar(225) not null,
+    latitude integer not null,
+    longitude integer not null,
+    country varchar(32) not null,
+    city varchar(32) not null,
+    eventType varchar(225) not null,
+    year integer not null,
+    primary key("eventID")
+);

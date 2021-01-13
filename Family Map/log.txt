@@ -1,0 +1,932 @@
+Jan 12, 2021 3:29:18 PM Server.Server run
+INFO: Initializing HTTP Server
+Jan 12, 2021 3:29:18 PM Server.Server run
+INFO: Creating contexts
+Jan 12, 2021 3:29:18 PM Server.Server run
+INFO: Starting server
+Jan 12, 2021 3:29:18 PM Server.Server run
+INFO: Server started
+Jan 12, 2021 3:29:22 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoginHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoginService login
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM EventHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM EventService event
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM PersonHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM PersonService person
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoginHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoginService login
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM EventHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM EventService event
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM PersonHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM PersonService person
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM MyFIleHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM RegisterHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM RegisterService register
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM PersonHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM PersonService person
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM EventHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM EventService event
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM RegisterHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM RegisterService register
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoginHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoginService login
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoadHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoadService load
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoginHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoginService login
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM EventHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM EventService event
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM PersonHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM PersonService person
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoginHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoginService login
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM EventHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM EventService event
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM PersonHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM PersonService person
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM RegisterHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM RegisterService register
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM PersonHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM PersonService person
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM RegisterHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM RegisterService register
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM EventHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM EventService event
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoadHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoadService load
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoginHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoginService login
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoginHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoginService login
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoginHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoginService login
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM PersonHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM PersonService person
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM EventHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM EventService event
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM RegisterHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM RegisterService register
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM EventHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM EventIDService eventID
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM RegisterHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM RegisterService register
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM PersonHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM PersonService person
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM EventHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM EventService event
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoadHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoadService load
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoginHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoginService login
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM PersonHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM PersonIDService personID
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM RegisterHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM RegisterService register
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM PersonHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM PersonIDService personID
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoadHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoadService load
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoginHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM LoginService login
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM EventHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM EventIDService eventID
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM EventHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM EventIDService eventID
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM RegisterHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM RegisterService register
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM FillHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM FillService fill
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM RegisterHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM RegisterService register
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM FillHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM FillService fill
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM RegisterHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM RegisterService register
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:22 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM FillHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM FillService fill
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM RegisterHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM RegisterService register
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM PersonHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM PersonService person
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM RegisterHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM RegisterService register
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM LoadHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM LoadService load
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM RegisterHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM RegisterService register
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM RegisterHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM RegisterService register
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM RegisterHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM RegisterService register
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM LoginHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM LoginService login
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM LoadHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM LoadService load
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM LoginHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM LoginService login
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM EventHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM EventIDService eventID
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM RegisterHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM RegisterService register
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM PersonHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM PersonService person
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM EventHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM EventService event
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM RegisterHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM RegisterService register
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM EventHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM EventService event
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM RegisterHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM RegisterService register
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM PersonHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM PersonIDService personID
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM RegisterHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM RegisterService register
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM MyFIleHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM MyFIleHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM RegisterHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM RegisterService register
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM PersonHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM PersonService person
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM LoadHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM LoadService load
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM FillHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM FillService fill
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM LoginHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM LoginService login
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM PersonHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM PersonService person
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM EventHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM EventService event
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM ClearService clear
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM RegisterHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM RegisterService register
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM UserHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM LoginHandler handle
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM LoginService login
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database openConnection
+FINER: ENTRY
+Jan 12, 2021 3:29:23 PM Database closeConnection
+FINER: ENTRY
